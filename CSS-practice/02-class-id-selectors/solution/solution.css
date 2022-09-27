@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(255, 102, 153);
+    font-family: Verdana, 'Deja Vu Sans', sans-serif;
+}
+
+#poo {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#golf {
+    background-color: rgb(77, 245, 77);
+    font-size: 24px;
+    font-weight: bold;
+}
